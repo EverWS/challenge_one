@@ -26,3 +26,16 @@
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/decodificador-texto.git
+   ```
+   
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd challenge_one
+   ```
+
+3. Abra index.html em seu navegador para utilizar a aplicação.
+
+
+## Contribuições
+
+Sinta-se à vontade para contribuir com melhorias ou correções. Para isso, por favor, envie um pull request ou abra uma issue para discutir suas ideias.
